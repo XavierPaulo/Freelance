@@ -1,0 +1,17 @@
+azul ll		#DFE6E7
+azul l		#72C2D1
+azul		#2EADC5
+azul d		#029FBC
+azul dd		#01758B
+
+amarelo l	#FFF689
+amarelo 	#FFF036
+amarelo DD	#E1D000
+
+dourado	l	#FFE589
+dourado		#FFD336
+dourado DD	#E1B000
+
+
+ns01.000webhost.com
+ns02.000webhost.com
