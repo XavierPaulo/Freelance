@@ -569,7 +569,7 @@ footer .footer-below {
 .btn.active,.btn:active,.btn:focus {
     outline: 0
 }
-.img-fluid{
+.img-avatar{
     height: 260px; 
     border-radius: 50px;
     margin: 50px auto auto auto !important;
