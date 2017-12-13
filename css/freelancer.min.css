@@ -570,6 +570,7 @@ footer .footer-below {
     outline: 0
 }
 .img-fluid{
-    height: 160px; 
+    height: 260px; 
     border-radius: 50px
+    margin: 50px 0px 0px 0px;
 }
