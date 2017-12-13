@@ -572,5 +572,5 @@ footer .footer-below {
 .img-fluid{
     height: 260px; 
     border-radius: 50px;
-    margin: 50px auto auto auto;
+    margin: 50px auto auto auto !important;
 }
